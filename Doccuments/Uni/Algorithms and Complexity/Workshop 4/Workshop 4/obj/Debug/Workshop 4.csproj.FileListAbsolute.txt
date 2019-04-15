@@ -1,0 +1,7 @@
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 4\Workshop 4\bin\Debug\Workshop 4.exe.config
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 4\Workshop 4\bin\Debug\Workshop 4.exe
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 4\Workshop 4\bin\Debug\Workshop 4.pdb
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 4\Workshop 4\obj\Debug\Workshop 4.csprojAssemblyReference.cache
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 4\Workshop 4\obj\Debug\Workshop 4.csproj.CoreCompileInputs.cache
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 4\Workshop 4\obj\Debug\Workshop 4.exe
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 4\Workshop 4\obj\Debug\Workshop 4.pdb

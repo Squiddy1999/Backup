@@ -1,0 +1,7 @@
+C:\Users\scamp\OneDrive\Documents\Code\Recursion stuff\Recursion stuff\bin\Debug\Recursion stuff.exe.config
+C:\Users\scamp\OneDrive\Documents\Code\Recursion stuff\Recursion stuff\bin\Debug\Recursion stuff.exe
+C:\Users\scamp\OneDrive\Documents\Code\Recursion stuff\Recursion stuff\bin\Debug\Recursion stuff.pdb
+C:\Users\scamp\OneDrive\Documents\Code\Recursion stuff\Recursion stuff\obj\Debug\Recursion stuff.csprojAssemblyReference.cache
+C:\Users\scamp\OneDrive\Documents\Code\Recursion stuff\Recursion stuff\obj\Debug\Recursion stuff.csproj.CoreCompileInputs.cache
+C:\Users\scamp\OneDrive\Documents\Code\Recursion stuff\Recursion stuff\obj\Debug\Recursion stuff.exe
+C:\Users\scamp\OneDrive\Documents\Code\Recursion stuff\Recursion stuff\obj\Debug\Recursion stuff.pdb

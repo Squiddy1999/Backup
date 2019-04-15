@@ -1,0 +1,7 @@
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 9\Workshop 9\Workshop 9\bin\Debug\Workshop 9.exe.config
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 9\Workshop 9\Workshop 9\bin\Debug\Workshop 9.exe
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 9\Workshop 9\Workshop 9\bin\Debug\Workshop 9.pdb
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 9\Workshop 9\Workshop 9\obj\Debug\Workshop 9.csprojAssemblyReference.cache
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 9\Workshop 9\Workshop 9\obj\Debug\Workshop 9.csproj.CoreCompileInputs.cache
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 9\Workshop 9\Workshop 9\obj\Debug\Workshop 9.exe
+C:\Users\scamp\OneDrive\Documents\Uni\Algorithms and Complexity\Workshop 9\Workshop 9\Workshop 9\obj\Debug\Workshop 9.pdb

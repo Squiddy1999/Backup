@@ -1,0 +1,3 @@
+Delete Daenerys Targaryen 022125827657
+insert Sansa Stark 059037212121
+update Sansa Stark 059037212121 Arya Stark 04513789678
